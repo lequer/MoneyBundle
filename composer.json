@@ -1,0 +1,15 @@
+{
+    "name": "phpinno/money-bundle",
+    "description": "Symfony Bundle to use moneyphp/money",
+    "type": "library",
+    "require": {
+        "moneyphp/money": "^3.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Michel Le Quer",
+            "email": "michel@mlequer.com"
+        }
+    ]
+}
