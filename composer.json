@@ -5,6 +5,11 @@
     "require": {
         "moneyphp/money": "^3.0"
     },
+       "autoload": {
+        "psr-4": {
+            "Phpinno\\MoneyBundle\\": ""
+        }      
+    },
     "license": "MIT",
     "authors": [
         {
